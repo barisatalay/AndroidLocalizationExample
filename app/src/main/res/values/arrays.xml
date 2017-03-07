@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="pref_general_language_values">
+        <item>en</item>
+        <item>tr</item>
+        <item>de</item>
+    </array>
+
+    <array name="pref_general_language_names">
+        <item>@string/language_english</item>
+        <item>@string/language_turkish</item>
+        <item>@string/language_german</item>
+    </array>
+
+</resources>

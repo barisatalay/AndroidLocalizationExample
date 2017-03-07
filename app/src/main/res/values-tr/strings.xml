@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Çeviri Örneği</string>
+
+    <string name="main_text">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.</string>
+    <string name="pref_header_general">Genel</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_german">Almanca</string>
+    <string name="language_english">İngilizce</string>
+    <string name="settings_language">Dil</string>
+    <string name="settings">Ayarlar</string>
+    <string name="settings_reopenapp">Uygulamayı kapatıp tekrar açmanız önerilir</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Localization Example</string>
+
+    <string name="pref_general_language" translatable="false">pref_general_language</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+
+    <string name="main_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="settings_language">Language</string>
+
+    <string name="language_english">English</string>
+    <string name="language_turkish">Turkish</string>
+    <string name="language_german">German</string>
+    <string name="settings">Settings</string>
+    <string name="settings_reopenapp">You must close and reopen the application</string>
+</resources>

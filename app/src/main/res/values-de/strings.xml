@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Translation Beispiel</string>
+
+    <string name="main_text">Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie.</string>
+    <string name="pref_header_general">General</string>
+    <string name="language_english">Englisch</string>
+    <string name="language_german">Deutsche</string>
+    <string name="language_turkish">Türkisch</string>
+    <string name="settings_language">Sprache</string>
+    <string name="settings">Einstellungen</string>
+    <string name="settings_reopenapp">Sie müssen die Anwendung schließen und neu öffnen</string>
+</resources>
